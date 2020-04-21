@@ -1,8 +1,8 @@
-# Created by https://www.gitignore.io/api/react,macos,webstorm
-# Edit at https://www.gitignore.io/?templates=react,macos,webstorm
-
 ### Idea files ###
 .idea/
+
+### Other ###
+package-lock.json
 
 ### macOS ###
 # General
@@ -135,5 +135,3 @@ fabric.properties
 # Markdown Navigator plugin
 .idea/**/markdown-navigator.xml
 .idea/**/markdown-navigator/
-
-# End of https://www.gitignore.io/api/react,macos,webstorm
